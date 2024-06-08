@@ -53,6 +53,7 @@
 Поэтому мы изменили механизм для достижения передаточного числа M=5, выполнили шестерни из PETG и закрепили их с помощью подшипников.
 
 ![Модель зубчатой передачи](https://github.com/Sofia-Sukhova/FabricBots2024/blob/main/common_files/mechan_model.jpg)
+*Примерный вид механизма, реальные диаметры шестреней 10, 50 (х4) и 70 мм*
 
 ![Реализация механизма](https://github.com/Sofia-Sukhova/FabricBots2024/blob/main/common_files/mechan_real.jpg)
 
