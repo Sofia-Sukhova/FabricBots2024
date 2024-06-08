@@ -20,6 +20,8 @@
 
 ![Робот-черепаха](https://github.com/Sofia-Sukhova/FabricBots2024/blob/main/common_files/turtle.jpg)
 
+![](https://github.com/Sofia-Sukhova/FabricBots2024/blob/main/common_files/turtle.mp4)
+
 ## Материалы и технологии
 
 ### Робот
